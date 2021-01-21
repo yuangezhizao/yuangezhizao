@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m currently working at a JP. Co.「しゃち」
+I’m currently working at Cisco.
 
 ## 📫 How to reach me: 
 - Bilibili：[@远哥制造](https://space.bilibili.com/25622031)
