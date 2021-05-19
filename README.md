@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m currently working at Cisco.
+I am currently working at Cisco, engaged in python back-end development.
 
 ## 📫 How to reach me: 
 - Bilibili：[@远哥制造](https://space.bilibili.com/25622031)
