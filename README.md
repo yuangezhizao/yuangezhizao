@@ -1,6 +1,6 @@
 <h2 align="center">远哥制造（yuangezhizao）</h2>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=yuangezhizao&show_icons=true&hide_border=true&theme=default&locale=cn"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=yuangezhizao&show_icons=true&hide_border=true&theme=default&locale=cn&count_private=true"/>
 
 ### Hi there 👋
 
