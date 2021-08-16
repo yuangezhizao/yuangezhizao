@@ -18,4 +18,4 @@ I am currently working at Cisco, engaged in python back-end development.
 ## ⚡ Hobbies: 
 - JP. Animation
 - ACG Music
-- Music Arcade
+- Arcade Rhythm Game
